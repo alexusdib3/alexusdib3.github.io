@@ -1,0 +1,50 @@
+/*JumboTron*/
+#attractionJumbo img {
+    height: 200px;
+    width: auto;
+}
+
+#attractionJumbo {
+    color: white;
+}
+
+#attractionJumbo h1 {
+    font-size: 4rem;
+}
+
+#attractionjumbo h3 {
+    font-size: 2.2;
+}
+.jumbotron {
+    background-color: rgb(12, 87, 65);
+    box-shadow: 1px 1px 5px gray;
+}
+/*JumboTron*/
+#AboutMe {
+    margin-top: 75px;
+}
+/*Skills*/
+#Skills {
+    margin-top: 75px;
+}
+/*Projects*/
+#MyProjects {
+    margin-top: 75px;
+}
+/*Contact*/
+#Contactme {
+    margin-top: 75px;
+}
+/*Skills*/
+#Skills svg.svg-inline--fa {
+    font-size: 5rem;
+    margin: auto;
+    color:rgb(12, 87, 65);
+    margin: 10px;
+}
+
+#Skills svg.svg.-inline--fa:hover {
+    font-size: 5.2rem;
+    color: black!important;
+    
+}
